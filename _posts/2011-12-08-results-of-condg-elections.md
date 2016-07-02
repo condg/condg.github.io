@@ -6,7 +6,9 @@ redirect_from:
  - /archive/2011/12/08/Results-of-CONDG-elections.aspx
 ---
 
+
 Your officers for 2012:
+
 
 - President – Brian Sherwin
 - Vice President – Bramha Ghosh
@@ -15,3 +17,4 @@ Your officers for 2012:
 
 
 Congratulations to the new officers!
+
