@@ -16,7 +16,7 @@ Windows 8 is Windows re-imagined!  Join this session to learn about the new pla
 
 ## Speaker
 
-Jennifer Marsman is a Developer Evangelist in Microsoft’s Developer and Platform Evangelism group, where she educates developers on Microsoft’s new technologies.  In this role, Jennifer displays her contagious enthusiasm for technology by speaking on a variety of Microsoft technologies.  She is a frequent speaker at software development conferences across the United States.  In 2009, Jennifer was chosen as "Techie whose innovation will have the biggest impact" by X-OLOGY for her work with GiveCamps, a weekend-long event where developers code for charity.  She has also received many honors from Microsoft, including the Central Region Top Contributor Award, Heartland District Top Contributor Award, DPE Community Evangelist Award, CPE Champion Award, MSUS Diversity &amp; Inclusion Award, and Gold Club.  Prior to becoming a Developer Evangelist, Jennifer was a software developer in Microsoft’s Natural Interactive Services division.  In this role, she earned two patents for her work in search and data mining algorithms.  Jennifer has also held positions with Ford Motor Company, National Instruments, and Soar Technology.  Jennifer holds a Bachelor’s Degree in Computer Engineering and Master’s Degree in Computer Science and Engineering from the University of Michigan in Ann Arbor.  Her graduate work specialized in artificial intelligence and computational theory.  Jennifer blogs at [http://blogs.msdn.com/jennifer](http://blogs.msdn.com/jennifer) and tweets at [http://twitter.com/jennifermarsman](http://twitter.com/jennifermarsman).
+Jennifer Marsman is a Developer Evangelist in Microsoft’s Developer and Platform Evangelism group, where she educates developers on Microsoft’s new technologies.  In this role, Jennifer displays her contagious enthusiasm for technology by speaking on a variety of Microsoft technologies.  She is a frequent speaker at software development conferences across the United States.  In 2009, Jennifer was chosen as "Techie whose innovation will have the biggest impact" by X-OLOGY for her work with GiveCamps, a weekend-long event where developers code for charity.  She has also received many honors from Microsoft, including the Central Region Top Contributor Award, Heartland District Top Contributor Award, DPE Community Evangelist Award, CPE Champion Award, MSUS Diversity & Inclusion Award, and Gold Club.  Prior to becoming a Developer Evangelist, Jennifer was a software developer in Microsoft’s Natural Interactive Services division.  In this role, she earned two patents for her work in search and data mining algorithms.  Jennifer has also held positions with Ford Motor Company, National Instruments, and Soar Technology.  Jennifer holds a Bachelor’s Degree in Computer Engineering and Master’s Degree in Computer Science and Engineering from the University of Michigan in Ann Arbor.  Her graduate work specialized in artificial intelligence and computational theory.  Jennifer blogs at [http://blogs.msdn.com/jennifer](http://blogs.msdn.com/jennifer) and tweets at [http://twitter.com/jennifermarsman](http://twitter.com/jennifermarsman).
 
 ## Pizza/Geek Dinner
 
@@ -27,10 +27,8 @@ Pizza will be provided as a snack during the meeting. A Geek Dinner will be held
 Thursday, 4/26/2012, 6:00 - ??
 
 ## Where
-
  [Microsoft Office - Columbus](http://maps.google.com/maps?f=q&amp;hl=en&amp;q=8800+Lyra+Dr.+Columbus,+OH+43240&amp;om=1)
-
- ## Sponsorship
+## Sponsorship
 
 Our Sponsorship Policy has changed! Take a look [here](http://www.condg.org/documents/Sponsorship%20Policy.pdf).
 
@@ -53,3 +51,4 @@ Generous thanks to Microsoft for giving us the meeting space.
 [![microsoft.160px](http://condg.org/images/condg_org/WindowsLiveWriter/JuneMeetingAnnouncement_C169/microsoft.160px_thumb_1.png "microsoft.160px")](http://www.microsoft.com)
 
 Opportunities to sponsor CONDG are available. For more information please email [contact@condg.org](mailto:contact@condg.org)
+

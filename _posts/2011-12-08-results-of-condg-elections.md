@@ -6,6 +6,7 @@ redirect_from:
  - /archive/2011/12/08/Results-of-CONDG-elections.aspx
 ---
 
+
 Your officers for 2012:
 
 - President – Brian Sherwin
@@ -13,5 +14,5 @@ Your officers for 2012:
 - Secretary – Vince Fabro
 - Treasurer – Brandon Schott
 
-
 Congratulations to the new officers!
+

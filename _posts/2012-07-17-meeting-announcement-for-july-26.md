@@ -41,7 +41,6 @@ Pizza will be provided as a snack during the meeting. A Geek Dinner will be held
 Thursday, 7/26/2012, 6:00 - ??
 
 ## Where
-
  [[Microsoft Office – Columbus](http://maps.google.com/maps?f=q&amp;hl=en&amp;q=8800+Lyra+Dr.+Columbus,+OH+43240&amp;om=1) ](http://maps.google.com/maps?f=q&amp;hl=en&amp;q=8800+Lyra+Dr.+Columbus,+OH+43240&amp;om=1)
 
 Please Note: Because of fire code, the Microsoft facility will only accommodate 100 people.
@@ -75,3 +74,4 @@ Our meeting swag sponsors include:
 [![](https://dzgdt8wefr0v4.cloudfront.net/assets/tpublogo_head-2da8440fd4312d32705e23afb44cb5df.png)](http://tekpub.com)
 
 Opportunities to sponsor CONDG are available. For more information please email [contact@condg.org](mailto:contact@condg.org)
+

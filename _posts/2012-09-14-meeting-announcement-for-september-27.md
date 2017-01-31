@@ -18,17 +18,17 @@ Smart businesses come up with a mission, vision, and values that define the way 
 
 Hi, I'm Jon Kruger and I am an independent consultant in Columbus, OH. I specialize in software solutions, project leadership, and Agile coaching and training and I have experience in a wide range of industries and environments. I use my experience as a leader and software developer to find ways to create better quality software, improve the software development process, and maximize value for the business. On the side, I run the Columbus ATDD Developers Group and provide test-driven development training ([tddbootcamp.com](http://tddbootcamp.com/)). You can follow me on my blog ([jonkruger.com](http://jonkruger.com/)) or on Twitter (@JonKruger).
 
-## Grok Topic
+###### Grok Topic
 
 Visual Studio 2012 By Air
 
-## Grok Abstract
+###### Grok Abstract
 
 Imagine traveling to Paris for business with no time to visit trendy attractions. The solution--a helicopter tour! Are you heads down on your day job? Are you struggling to manage a personal life besides? And what's this Visual Studio 2012? Why should I care, and who has time to learn it? Have no fear! Take a high-altitude tour of the goodness Visual Studio 2012 promises early adopters, late adopters, and whenever-I-get-around-to-it adopters. With enough bullet points to supply a small army, you'll be armed with exciting teasers and useful resources to get started.
 
 If you only have 30 minutes to see Paris, join the ride. You can catch all of the bistros and cafés the next time.
 
-## Grok Speaker
+###### Grok Speaker
 
 When Jeff Miller's cousin Bill passed along his used Tandy TRS-80 to Jeff, neither realized the full significance. What started as a hobby quickly became a passion and later a career. Now, Jeff possesses more than 15 years of professional consulting experience serving the needs of state government, insurance, higher education and healthcare industries, among others. He specializes in Microsoft Web and database platforms to pay his mortgage, but also dabbles in Linux, Drupal and wiki platforms. Now, all these years later, Jeff has realized that "one man's TRS-80 is another man's treasure!"
 
@@ -41,7 +41,6 @@ Pizza will be provided as a snack during the meeting. A Geek Dinner will be held
 Thursday, 9/27/2012, 6:00 - ??
 
 ## Where
-
  [Microsoft Office – Columbus](http://maps.google.com/maps?f=q&amp;hl=en&amp;q=8800+Lyra+Dr.+Columbus,+OH+43240&amp;om=1)
 
 Please Note: Because of fire code, the Microsoft facility will only accommodate 100 people.
@@ -75,3 +74,4 @@ Our meeting swag sponsors include:
 [![](https://dzgdt8wefr0v4.cloudfront.net/assets/tpublogo_head-2da8440fd4312d32705e23afb44cb5df.png)](http://tekpub.com)
 
 Opportunities to sponsor CONDG are available. For more information please email [contact@condg.org](mailto:contact@condg.org)
+

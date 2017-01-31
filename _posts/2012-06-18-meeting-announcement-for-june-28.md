@@ -20,7 +20,7 @@ Guy Royse works for Pillar Technology in Columbus, Ohio as an agile coach and so
 
 In his personal life, Guy is a hard-boiled geek interested in role-playing games, science fiction, and technology. He also has a slightly less geeky interest in history and linguistics. In his spare time he volunteers as Cubmaster for his kids' Cub Scout Pack.
 
-## Grok Talk
+###### Grok Talk
 
 Simplifying front-end development with MVVM and Knockout.js
 
@@ -41,9 +41,7 @@ Pizza will be provided as a snack during the meeting. A Geek Dinner will be held
 Thursday, 6/28/2012, 6:00 - ??
 
 ## Where
-
  [Microsoft Office - Columbus](http://maps.google.com/maps?f=q&amp;hl=en&amp;q=8800+Lyra+Dr.+Columbus,+OH+43240&amp;om=1)
- 
 ## Sponsorship
 
 Our Sponsorship Policy has changed! Take a look [here](http://www.condg.org/documents/Sponsorship%20Policy.pdf).
@@ -73,3 +71,4 @@ Our meeting swag sponsors include:
 [![](http://tekpub.com/images/tpublogo_white_420.png)](http://tekpub.com)
 
 Opportunities to sponsor CONDG are available. For more information please email [contact@condg.org](mailto:contact@condg.org)
+

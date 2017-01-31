@@ -6,6 +6,7 @@ redirect_from:
  - /archive/2011/10/19/Free-Lunch-and-Learn-Building-Metro-Style-Applications-in-Windows.aspx
 ---
 
+
 CONDG’s yearly sponsor, [Improving Enterprises](www.improvingEnterprises.com) is hosting a fee lunch and learn this Friday. This event is free and open to everyone.
 
 ![ie-logo](http://condg.org/images/condg_org/Windows-Live-Writer/February-Meeting-Announcement_BD2C/ie-logo_thumb.jpg "ie-logo")
@@ -19,3 +20,4 @@ Speaker Bio: James is the Principal Technology Evangelist and Application Develo
 James will be joined by fellow Improvers Dan Shultz and John Nastase.
 
 This event is free, but prior registration is appreciated. You can register at [http://improvingcolumbus-windows8.eventbrite.com/](http://improvingcolumbus-windows8.eventbrite.com/)
+

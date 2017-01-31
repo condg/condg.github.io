@@ -6,9 +6,10 @@ redirect_from:
  - /archive/2011/08/22/August-Meeting-AnnouncementYetAgain.aspx
 ---
 
+
 Sorry for the delay in this announcement, we had to do some last minute speaker shuffling.
 
-### Sponsorship
+## Sponsorship
 
 We would like to thank our yearly sponsor [Improving Enterprises](http://www.improvingenterprises.com/) and our In-Kind sponsor [Microsoft](http://msdn.microsoft.com/en-us/default.aspx)
 
@@ -61,5 +62,4 @@ Bramha Ghosh and Andrew Vida will be presenting. Full bio’s TBA.
 Thursday, 8/25/2011, 6:00 - ??
 
 ## Where
-
  [Improving Enterprises Office - Columbus](http://www.bing.com/maps/#JnE9LjQ0NDklMmJFYXN0b24lMmJXYXklMmJTdWl0ZSUyYjEwMCUyYkNvbHVtYnVzJTI1MmMlMmJPaGlvJTJiNDMyMTklMmIlN2Vzc3QuMCU3ZXBnLjEmYmI9NTcuMTY4ODI4NzI3NDA0MiU3ZS00My4wNjY3NTcyMDE1JTdlMjEuNzU0MDgwNjMyMDM2JTdlLTEzMi4yNzU3NDE1NzY1)

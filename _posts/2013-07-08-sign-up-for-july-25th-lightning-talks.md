@@ -6,6 +6,7 @@ redirect_from:
  - /archive/2013/07/08/Sign-up-for-July-25th-Lightning-Talks.aspx
 ---
 
+
 Once again we are very excited to announce that this July 25th we will be hosting an all Lightning Talk meeting and you can be one of the presenters!     
   
 **What are Lightning Talks?**  
@@ -26,3 +27,4 @@ All you need to do is pick a topic you would like to present and put together a 
 If you are interested in doing a Lightning Talk, please send an email to [contact@condg.org](mailto:contact@condg.org) with your topic by Wednesday July 24th.
 
 We have room for 6 speakers and it is first come, first serve. Hurry and submit your talks now!
+

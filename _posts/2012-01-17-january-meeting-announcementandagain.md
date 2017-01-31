@@ -45,5 +45,4 @@ Pizza will be provided as a snack during the meeting. A Geek Dinner will be held
 Thursday, 1/26/2012, 6:00 - ??
 
 ## Where
-
  [Microsoft Office - Columbus](http://maps.google.com/maps?f=q&amp;hl=en&amp;q=8800+Lyra+Dr.+Columbus,+OH+43240&amp;om=1)

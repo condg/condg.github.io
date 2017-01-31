@@ -18,15 +18,15 @@ A lot of people have some misconceptions about what SharePoint development is. S
 
 I’m a SharePoint guy, MCPD in SharePoint, Gamer, and Golfer. I started out development with ASP.NET/HTML on an intranet team in a local financial services company. We implemented SharePoint and ever since, I've been having fun with it. I've since moved on to Consulting for SharePoint and have been loving it! I also develop C#, however I stick mainly in the SharePoint space for that type of development.
 
-## Grok Topic
+###### Grok Topic
 
 Acceptance Test Driven Development with SpecFlow
 
-## Grok Abstract
+###### Grok Abstract
 
 From requirements to executable tests using SpecFlow Unit testing and TDD are fairly common practices these days for .Net developers who are focused on delivering high quality code that fulfills business requirements. ATDD is also becoming a more common practice these days, especially in the agile/Scrum world. ATDD provides a means for the non-developers on the team to contribute directly to the testing effort via a structured format for writing requirements. In this session we'll briefly discuss an overview of ATDD, then quickly jump into the mechanics of using ATDD to deliver executable tests via SpecFlow.
 
-## Grok Speaker – Vince Fabro
+###### Grok Speaker – Vince Fabro
 
 Vince Fabro is the Practice Manager of the Enterprise Microsoft Solutions practice at Cardinal Solution’s Columbus, Ohio, branch. Vince loves building things and fixing things, and working with teams to achieve success. He’s been applying those passions to the IT industry for well over 20 years now – the past 20 as a consultant wearing many hats (developer, trainer, architect, mentor, manager). As a former certified trainer he has enjoyed training hundreds of students, and has presented technology topics at IT conferences and user groups for many years. Vince has specialized in Microsoft’s .Net technology stack for more than a decade now, and is always striving to learn more effective ways to build applications that solve challenging IT problems. Vince attended The Ohio State University to earn both his Bachelor of Science degree in Computer Science and his Master of Science degree in Biomedical Engineering. He thoroughly enjoys his work, as well as bicycling, skiing, working out, and travelling with his family.     
 Email: [VFabro@CardinalSolutions.com](mailto:VFabro@CardinalSolutions.com), Twitter: @vfabro.
@@ -74,3 +74,4 @@ Our meeting swag sponsors include:
 [![clip_image008](http://condg.org/images/condg_org/Windows-Live-Writer/fe97feac0eea_10904/clip_image008_a76a2340-477d-42a0-ae53-26ba73e914df.png "clip_image008")](http://tekpub.com)
 
 Opportunities to sponsor CONDG are available. For more information please email [contact@condg.org](mailto:contact@condg.org)
+
