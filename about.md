@@ -16,7 +16,7 @@ The Central Ohio .Net Developers Group meets on the 4th Thursday of every month.
 Please check our [schedule](/schedule) for upcoming meeting dates and topics.
 
 *Note: Due to holiday schedules we do not host regular meetings in November and December.
-Instead we host a special holiday party the begining of December.*
+Instead we host a special holiday party the beginning of December.*
 
 ## Where we meet <a name="where" />
 
