@@ -8,8 +8,8 @@ layout: page
 
 ### Prize Sponsors
 
-| [![Jetbrains](/images/sponsors/jetbrains_large.png "Jetbrains")](http://jetbrains.com/) | [![Devexpress](/images/sponsors/devexpress_large.png "Devexpress")](http://devexpress.com/) | 
-| [![telerik](/images/sponsors/telerik_large.png "Telerik")](http://telerik.com/) | [![Pluralsight](/images/sponsors/pluralsight_large.png "Pluralsight")](http://pluralsight.com/) | 
+| [![telerik](/images/sponsors/nevron_small.png "Nevron")](http://nevron.com/) | [![CouchBase](/images/sponsors/couchbase_small.png "CouchBase")](https://www.couchbase.com/) |
+| [![telerik](/images/sponsors/telerik_small.png "Telerik")](http://telerik.com/) | [![Microsoft](/images/sponsors/microsoft_small.png "Microsoft")](https://www.microsoft.com/) |
 
 ## Sponsorship opportunities
 

@@ -9,7 +9,7 @@ Below is the tentative monthly meeting schedule for 2017.
 
 |   Month   |  Day |      Topic      | Presenter | Sponsor(s) |
 |:---------:|:----:|:---------------:|:---------:|:----------:|
-|  January  | 26th | Visual Studio...What's Coming in 2017 | Brian Sherwin | TEKsystems |
+|  January  | 26th | Visual Studio...What's Coming in 2017 | [Brian Sherwin](http://briansherwin.com/) | [TEKsystems](https://www.teksystems.com) |
 |  February | 23rd |       TBD       |           | Available |
 |   March   | 23rd |       TBD       |           | Available |
 |   April   | 27th |       TBD       |           | Available |
@@ -24,3 +24,7 @@ Below is the tentative monthly meeting schedule for 2017.
 ## Call for speakers
 
 All speakers are invited to [contact us](/about) to schedule to present at the user group.
+
+## Call for sponsors
+
+We are seeking out generous sponsors to cover the food and drink for each meeting. If you 
