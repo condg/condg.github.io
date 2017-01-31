@@ -50,6 +50,6 @@ You can see our list of current sponsors on our Sponsors page.
 **Job Postings** - Our current policy is to not allow job postings or announcements on our site or at our
 meetings.
 
-**Questions?** - If you have any questions about sponsorship opportunities, please [contact us](/about).
+**Questions?** - If you have any questions about sponsorship opportunities, please [contact us](/about/#contact).
 
 These policies are subject to change at any time.

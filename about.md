@@ -22,15 +22,32 @@ Instead we host a special holiday party the begining of December.*
 
 Meetings are held at the Microsoft Polaris Office
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3049.9057920077257!2d-82.97518998461233!3d40.14438217939776!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8838f4679f87d0cf%3A0x458ec3e21396145a!2s8800+Lyra+Dr%2C+Columbus%2C+OH+43240!5e0!3m2!1sen!2sus!4v1450123055872" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+<style type="text/css">
+	iframe { 
+		width: 100%;
+	}
+	.aspect-ratio {
+		position: relative;
+		width: 100%;
+		height: 0;
+		padding-bottom: 40%;
+	}
+	.aspect-ratio iframe {
+		position: absolute;
+		width: 100%;
+		height: 100%;
+		left: 0; top: 0;
+	}	
+</style>
 
+<div class="aspect-ratio">
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3049.9057920077257!2d-82.97518998461233!3d40.14438217939776!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8838f4679f87d0cf%3A0x458ec3e21396145a!2s8800+Lyra+Dr%2C+Columbus%2C+OH+43240!5e0!3m2!1sen!2sus!4v1450123055872" frameborder="0" style="border:0" allowfullscreen></iframe>
+</div>
 [Microsoft Office, 4th Floor<br/>8800 Lyra Drive<br/>Columbus, Ohio 43240](https://goo.gl/maps/2HFvJCJG9i82)
 
 ## How can I be notified of future meetings <a name="newsletter" />
 
 Feel free to sign up for our monthly newsletter! We make sure to email a meeting reminder each month.
-
-<h2>Subscribe to our mailing list</h2>
 
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/slim-081711.css" rel="stylesheet" type="text/css">
@@ -42,7 +59,7 @@ Feel free to sign up for our monthly newsletter! We make sure to email a meeting
 <div id="mc_embed_signup">
 <form action="//condg.us9.list-manage.com/subscribe/post?u=68e802e90c225b40783f92521&amp;id=96cf2a8670" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-	
+	<h3>Subscribe to our mailing list</h3>
 	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
     <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
     <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_68e802e90c225b40783f92521_96cf2a8670" tabindex="-1" value=""></div>
@@ -51,3 +68,7 @@ Feel free to sign up for our monthly newsletter! We make sure to email a meeting
 </form>
 </div>
 <!--End mc_embed_signup-->
+
+## How to contact us <a name="contact" />
+
+Feel free to email us at [contact@condg.org](mailto:contact@condg.org)

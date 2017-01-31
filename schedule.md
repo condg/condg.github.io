@@ -23,8 +23,8 @@ Below is the tentative monthly meeting schedule for 2017.
 
 ## Call for speakers
 
-All speakers are invited to [contact us](/about) to schedule to present at the user group.
+All speakers are invited to [contact us](/about/#contact) to schedule to present at the user group.
 
 ## Call for sponsors
 
-We are seeking out generous sponsors to cover the food and drink for each meeting. If you 
+We are seeking out generous sponsors to cover the food and drink for each meeting. If your company is interested please [contact us](/about/#contact) for more information.

@@ -1,6 +1,6 @@
 ---
 title: Events
-subtitle: Local events and other user groups
+subtitle: Local events, conferences, and other user groups
 permalink: "/events/index.html"
 layout: page
 ---
@@ -9,23 +9,40 @@ layout: page
 
 ---------------------------------------
 
-### IT Game Day: Winter 2017 Edition
-
-For more information and to register please visit [eventbrite](#).
-
 ### Arena Tech Night
 
 Arena Tech Night is all about Technology, Community, Fun, Food and Drinks.  It is for people who are passionate about technology, and enjoy networking with others who share that same passion.  As a community-driven event, Arena Tech Night attendees help drive the process: attendees suggest topics they would like to learn about, they help gather presenters for those topics, and then they vote on which topics they would most like to see next.
 
 For more information visit their website [ttp://www.arenatechnight.com/](http://www.arenatechnight.com/)
 
-### Stir Trek
+
+## Conferences
+
+---------------------------------------
+
+### QA or the Highway (Feb 7th, 2017)
+
+[QA or the Highway](https://qaorthehighway.com/) is a regional, professional conference featuring real world experience and thought leadership in the QA and testing industry.  The QA or the Highway conference will be held on Tuesday, February 7, 2017 at the Ohio State University Student Union in Columbus, Ohio.
+
+### Stir Trek (May 5th, 2017)
 
 [Stir Trek](http://stirtrek.com/) is a one-day conference focused on teaching software developers, and others in the industry, the latest and greatest in technologies, techniques, and tools. The full day of content is always concluded with a private screening of a blockbuster film on its opening day.
 
-### The Path To Agility
+### Path to Agility (May 25-26th, 2017)
 
-[The Path to Agility](https://www.thepathtoagility.com/) conference was developed to further the mission to promote the use of Agile practices and principles. Attend session content focused on a mix of business, technical, and/or management topics. Whether you are well along the path or just starting out, this conference will help guide you in the right direction.
+[The Path to Agility](https://www.thepathtoagility.com/) conference was developed to further COHAA’s mission to promote the use of Agile practices and principles. COHAA has engaged a number of national and regional Agile thought leaders to provide session content focused on a mix of business, technical, and/or management topics. Whether you are well along the path or just starting out, this conference will help guide you in the right direction.
+
+### M3 Conference (Aug 2017)
+
+[M3 Conference](http://m3conf.com/) was founded in 2010 as an intentional movement towards delivering innovative and thought-provoking sessions with an emphasis on mobile technology and the ultimate impact it had on user experience. But has quickly become enveloped in moving the dialogue towards our over-arching goals as technologists, and becoming more aware of how privacy and communications are affected in the decisions we make when envisioning the best designs and functionality. We at M3 are excited about the room for a perspective that utilizes the full potential of our understanding to competitively drive business value while also seeking to improve the world around us. The rise of “connectivity” within the “Internet of Things” coupled with a “smart” perspective towards technology and its solutions can spur our “best” technological efforts.
+
+### Cloud Develop (Aug / Sept 2017)
+
+[CloudDevelop](http://clouddevelop.org/) aims to bring together people exploring every aspect of cloud computing from App Dev to DevOps.
+
+### DogFood Con (Oct 5-6th, 2017)
+
+[Dog Food Conference](http://dogfoodcon.com/) is a two day event focused on Microsoft tools and technologies including ALM, Azure, SQL/BI, CRM, DevOps, Infrastructure, Mobile, .NET, Office 365, SharePoint, Windows, and more.
 
 
 ## User Groups
@@ -62,4 +79,5 @@ For more information follow the group on twitter at [@ColsDevBookClub](https://t
 
 ---------------------------------------
 
-If you know of another user group or event we should post please [contact us](/about).
+
+If you know of another user group or event we should post please [contact us](/about/#contact).
