@@ -42,7 +42,7 @@ Heard the buzz last week about Windows 8? What's Metro & what's Retro? We take a
 
 ## Speaker
 
-Samidip Basu (@samidip) is a technologist & gadget-lover working as a Manager & Solutions Lead for Sogeti out of the Columbus Unit. Having worked on WP7 since CTP days, he now spends much of his time in spreading the word to discover the full potential of the Windows Phone platform & cloud-based mobile solutions in general. He passionately runs the Central Ohio Windows Phone User Group (http://cowpug.org) and can be found with atleast a couple of hobbyist projects at any time. His spare times call for travel and culinary adventures with the wife. Find out more at http://samidipbasu.com.
+Samidip Basu (@samidip) is a technologist & gadget-lover working as a Manager & Solutions Lead for Sogeti out of the Columbus Unit. Having worked on WP7 since CTP days, he now spends much of his time in spreading the word to discover the full potential of the Windows Phone platform & cloud-based mobile solutions in general. He passionately runs the Central Ohio Windows Phone User Group (http://cowpug.org) and can be found with at least a couple of hobbyist projects at any time. His spare times call for travel and culinary adventures with the wife. Find out more at http://samidipbasu.com.
 
 ## Pizza/Geek Dinner
 
