@@ -12,7 +12,7 @@ How to Leverage Azure IoT Services for Fun and Profit... Today
 
 ## Abstract
 
-Many vendors are entering the race to provide turnkey IoT solutions, one of which is Microsoft with their recently announced Azure IoT Suite. We will talk about what IoT is (hint:  more than IP-connected lightbulbs and fitness trackers), and then take a quick look at Microsoft’s history in IoT to help set perspective on their IoT offerings. Next, we'll dive into the Azure IoT Services that exist today and see how we can leverage them to create effective and scalable IoT solutions.  Discussion (and demo) will also cover items such as connectivity and ingestion from multiple platforms, cloud service processing, storage, analytics, and presentation.  Additionally, key items such as security, scalability and financial impacts will be discussed as well.
+Many vendors are entering the race to provide turnkey IoT solutions, one of which is Microsoft with their recently announced Azure IoT Suite. We will talk about what IoT is (hint:  more than IP-connected light-bulbs and fitness trackers), and then take a quick look at Microsoft’s history in IoT to help set perspective on their IoT offerings. Next, we'll dive into the Azure IoT Services that exist today and see how we can leverage them to create effective and scalable IoT solutions.  Discussion (and demo) will also cover items such as connectivity and ingestion from multiple platforms, cloud service processing, storage, analytics, and presentation.  Additionally, key items such as security, scalability and financial impacts will be discussed as well.
 
 ## Speaker – Nino Benvenuti
 

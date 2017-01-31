@@ -12,7 +12,7 @@ F12: Tools and Tips for Tuning and Debugging The Web
 
 ## Abstract
 
-You already know how to debug your C#/VB.NET but what about everything in the browser? The developer tools in IE (and every other modern browser) are packed full of features to help. Having trouble working with minified code? There’s a simple trick to deminify it all. Pages slow or rendering oddly? Profiling and timeline features can help solve this. Bonus topics will include tools like Glimpse and Fiddler that show what the heck the server is doing to your UI. Sites will still do strange things, but now there are ways to fix them.
+You already know how to debug your C#/VB.NET but what about everything in the browser? The developer tools in IE (and every other modern browser) are packed full of features to help. Having trouble working with minified code? There’s a simple trick to de-minify it all. Pages slow or rendering oddly? Profiling and timeline features can help solve this. Bonus topics will include tools like Glimpse and Fiddler that show what the heck the server is doing to your UI. Sites will still do strange things, but now there are ways to fix them.
 
 ## Speaker – Jared Faris
 
