@@ -3,7 +3,7 @@ title: "January 2017 - Visual Studio...What&rsquo;s Coming in 2017"
 date: 2017-01-17
 layout: post
 redirect_from:
- - /archive/2017/01/17/January-2017---Visual-Studio.Whatrsquos-Coming-in-2017.aspx
+ - /archive/2017/01/17/January-2017---Visual-Studio.Whatrsquos-Coming-in-2017.aspx/index.html
 ---
 
 ## Meeting Topic
