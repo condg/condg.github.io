@@ -21,6 +21,9 @@ Below is the tentative monthly meeting schedule for 2017.
 |  October  | 26th |       TBD       |           | Available |
 |  December |  TBD |  Holiday Party  |           | Available |
 
+Years: [2017](/schedule) - [2016](/schedule/2016) - [2015](/schedule/2015) - [2014](/schedule/2014) - [2013](/schedule/2013) - [2012](/schedule/2012) - [2011](/schedule/2011)
+
+
 ## Call for speakers
 
 All speakers are invited to [contact us](/about/#contact) to schedule to present at the user group.
