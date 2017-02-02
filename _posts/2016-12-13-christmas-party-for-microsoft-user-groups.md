@@ -3,7 +3,7 @@ title: "Christmas Party for Microsoft User Groups"
 date: 2016-12-13
 layout: post
 redirect_from:
- - /archive/2016/12/13/Christmas-Party-for-Microsoft-User-Groups.aspx
+ - /archive/2016/12/13/Christmas-Party-for-Microsoft-User-Groups.aspx/index.html
 ---
 
 
@@ -23,8 +23,3 @@ And what's a Holiday Party without some great Prizes? Thanks to Cardinal Solutio
 Ticket sales go to charity. Also highly encouraged are Toys donations to [https://u.osu.edu/osutap/](https://u.osu.edu/osutap/) and Food item donations to [http://www.midohiofoodbank.org/](http://www.midohiofoodbank.org/). Let's spread the love this Holiday Season.
 
 Big cheers for Improving OH for hosting us all. You simply need to be here!
-
-Register Now At:
-
-[https://www.eventbrite.com/e/christmas-party-for-columbus-msft-user-groups-tickets-29997838342?aff=estw](https://www.eventbrite.com/e/christmas-party-for-columbus-msft-user-groups-tickets-29997838342?aff=estw)
-

@@ -3,10 +3,10 @@ title: "October 2014 Special Speaker &ndash; Robert &ldquo;Uncle Bob&rdquo; Mart
 date: 2014-10-09
 layout: post
 redirect_from:
- - /archive/2014/10/09/October-2014-Special-Speaker-ndash-Robert-ldquoUncle-Bobrdquo-Martin.aspx
+ - /archive/2014/10/09/October-2014-Special-Speaker-ndash-Robert-ldquoUncle-Bobrdquo-Martin.aspx/index.html
 ---
 
-## Meeting Topic
+## Topic
 
 Principles, Patterns, and Practices
 
@@ -22,30 +22,3 @@ He has authored "landmark" books on Agile Programming, Extreme Programming, UML,
 He has written, directed and produced numerous "Code Casts" videos for software professionals.
 
 Robert has published dozens of articles in various trade journals, and is a regular speaker at international conferences and trade shows.
-
-**Registration**
-
-[![Eventbrite - CONDG Presents Robert ](https://www.eventbrite.com/custombutton?eid=12555506859)](http://www.eventbrite.com/e/condg-presents-robert-uncle-bob-martin-tickets-12555506859?ref=ebtnebtckt)
-
-Pre-registration is required to attend, there will NOT be tickets sold at the event.
-
-## When
-
-Thursday, 10/16/2014, 5:30 – 8:00pm
-
-## Where
-
-[Marcus Crosswoods Cinema](http://goo.gl/maps/G6Kp6)  
-[200 Hutchinson Ave](http://goo.gl/maps/G6Kp6)  
-[Columbus, OH 43235](http://goo.gl/maps/G6Kp6)
-
-Construction notice: There is ongoing road and ramp construction on the I-270 and Rt23 exit. Plan for delays and extra traffic in the area.
-
-**In Partnership With**
-
-[![Annual Sponsor - Cardinal Solutions](http://condg.org/images/condg_org/Windows-Live-Writer/April-2013-Meeting-Announcement---MSMQ-a_B4CC/cardinal_color_tagline3_aa7a59d8-6af9-4071-a3c6-715999b671b0.jpg "Annual Sponsor - Cardinal Solutions")](http://www.cardinalsolutions.com)
-
-[![Annual Sponsor - Improving Enterprises](http://condg.org/images/condg_org/Windows-Live-Writer/January-2013-Meeting-Announcement--_DBCD/clip_image0013_836cae65-6416-43f8-9634-cdf52c5f00a8.jpg "Annual Sponsor - Improving Enterprises")](http://www.improvingenterprises.com)
-
-[![logo-hmb-corporate-finite-2color_3](http://condg.org/images/condg_org/WindowsLiveWriter/May2014MeetingAnnouncementRepositoryandS_123F5/logo-hmb-corporate-finite-2color_3_3.png "logo-hmb-corporate-finite-2color_3")](http://hmbnet.com)
-

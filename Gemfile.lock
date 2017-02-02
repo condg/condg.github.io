@@ -205,6 +205,7 @@ DEPENDENCIES
   github-pages
   jekyll (= 3.3.1)
   jekyll-feed (~> 0.6)
+  jekyll-redirect-from
   tzinfo-data
   wdm (>= 0.1.0)
 

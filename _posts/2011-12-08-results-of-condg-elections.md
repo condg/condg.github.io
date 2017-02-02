@@ -3,7 +3,7 @@ title: "Results of CONDG elections"
 date: 2011-12-08
 layout: post
 redirect_from:
- - /archive/2011/12/08/Results-of-CONDG-elections.aspx
+ - /archive/2011/12/08/Results-of-CONDG-elections.aspx/index.html
 ---
 
 

@@ -119,6 +119,7 @@ defaults:
 
 gems:
   - jekyll-feed
+  - jekyll-redirect-from
   
 exclude:
   - Gemfile
