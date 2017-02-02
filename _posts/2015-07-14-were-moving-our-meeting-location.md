@@ -3,9 +3,8 @@ title: "We&rsquo;re Moving Our Meeting Location"
 date: 2015-07-14
 layout: post
 redirect_from:
- - /archive/2015/07/14/Wersquore-Moving-Our-Meeting-Location.aspx
+ - /archive/2015/07/14/Wersquore-Moving-Our-Meeting-Location.aspx/index.html
 ---
-
 
 We have always been very thankful for being allowed to meet each month at the Microsoft Office, but unfortunately for the next few months we will have to move our meeting location while renovations are being done in the Microsoft Office.
 

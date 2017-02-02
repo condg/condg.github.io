@@ -3,7 +3,7 @@ title: "Election for 2012 CONDG Officers"
 date: 2011-12-06
 layout: post
 redirect_from:
- - /archive/2011/12/06/Election-for-2012-CONDG-Officers.aspx
+ - /archive/2011/12/06/Election-for-2012-CONDG-Officers.aspx/index.html
 ---
 
 

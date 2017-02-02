@@ -3,17 +3,16 @@ title: "Sign up for July 25th Lightning Talks"
 date: 2013-07-08
 layout: post
 redirect_from:
- - /archive/2013/07/08/Sign-up-for-July-25th-Lightning-Talks.aspx
+ - /archive/2013/07/08/Sign-up-for-July-25th-Lightning-Talks.aspx/index.html
 ---
-
 
 Once again we are very excited to announce that this July 25th we will be hosting an all Lightning Talk meeting and you can be one of the presenters!     
   
-**What are Lightning Talks?**  
+#### What are Lightning Talks?
   
 A Lightning Talk is a short 10 to 15 minute presentation on a single topic or idea. Several talks will be presented in a row to the audience.
 
-**Who can give a Lightning Talk?**  
+#### Who can give a Lightning Talk?
   
 We allow anyone to give a talk on any technical topic that they are interested in and would like to share with the .Net community. No previous speaking experience is required!
 
@@ -23,8 +22,8 @@ For seasoned speakers, Lightning Talks are a nice way to test out new material a
 
 All you need to do is pick a topic you would like to present and put together a few slides and short demos that can be completed in 10-15 minutes.
 
-**How do I sign up?**  
+#### How do I sign up?
+
 If you are interested in doing a Lightning Talk, please send an email to [contact@condg.org](mailto:contact@condg.org) with your topic by Wednesday July 24th.
 
 We have room for 6 speakers and it is first come, first serve. Hurry and submit your talks now!
-

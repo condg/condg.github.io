@@ -3,7 +3,7 @@ title: "Central Ohio Day of .NET is December 10th"
 date: 2011-11-15
 layout: post
 redirect_from:
- - /archive/2011/11/15/Central-Ohio-Day-of-.NET-is-December-10th.aspx
+ - /archive/2011/11/15/Central-Ohio-Day-of-.NET-is-December-10th.aspx/index.html
 ---
 
 
