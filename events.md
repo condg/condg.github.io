@@ -77,7 +77,7 @@ For more information follow the group on twitter at [@ColsDevBookClub](https://t
 
 ### Grove City Code Crafters
 
-Grove City Code Crafters is a discussion group open to developers and technologists of any background or experience level. The group meets once a month on the 4th Tuesday of each month. Meetings are held at The Naz on Hoover Rd in Grove City. [Sign up for the mailing list for meeting announcements(http://eepurl.com/bcz9Uf)].
+Grove City Code Crafters is a discussion group open to developers and technologists of any background or experience level. The group meets once a month on the 4th Tuesday of each month. Meetings are held at The Naz on Hoover Rd in Grove City. [Sign up for the mailing list for meeting announcements](http://eepurl.com/bcz9Uf).
 
 ---------------------------------------
 
