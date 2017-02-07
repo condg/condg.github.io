@@ -16,7 +16,7 @@ The Central Ohio .Net Developers Group meets on the 4th Thursday of every month.
 Please check our [schedule](/schedule) for upcoming meeting dates and topics.
 
 *Note: Due to holiday schedules we do not host regular meetings in November and December.
-Instead we host a special holiday party the beginning of December.*
+Instead we host a special holiday party in December.*
 
 ## Where we meet <a name="where" />
 
@@ -30,7 +30,7 @@ Meetings are held at the Microsoft Polaris Office
 		position: relative;
 		width: 100%;
 		height: 0;
-		padding-bottom: 40%;
+		padding-bottom: 60%;
 	}
 	.aspect-ratio iframe {
 		position: absolute;
@@ -45,9 +45,9 @@ Meetings are held at the Microsoft Polaris Office
 </div>
 [Microsoft Office, 4th Floor<br/>8800 Lyra Drive<br/>Columbus, Ohio 43240](https://goo.gl/maps/2HFvJCJG9i82)
 
-## How can I be notified of future meetings <a name="newsletter" />
+## How can I be notified of future meetings? <a name="newsletter" />
 
-Feel free to sign up for our monthly newsletter! We make sure to email a meeting reminder each month.
+We encourage you to sign up for our monthly newsletter! It's the best way to keep up to date!
 
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/slim-081711.css" rel="stylesheet" type="text/css">
@@ -69,6 +69,6 @@ Feel free to sign up for our monthly newsletter! We make sure to email a meeting
 </div>
 <!--End mc_embed_signup-->
 
-## How to contact us <a name="contact" />
+## How can I contact you? <a name="contact" />
 
-Feel free to email us at [contact@condg.org](mailto:contact@condg.org)
+You may email us at [contact@condg.org](mailto:contact@condg.org)
