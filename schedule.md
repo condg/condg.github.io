@@ -11,7 +11,7 @@ Below is the tentative monthly meeting schedule for 2017.
 |:---------:|:----:|:---------------:|:---------:|:----------:|
 |  January  | 26th | [Visual Studio...What's Coming in 2017](/2017/01/17/january-2017-visual-studio-whats-coming-in-2017/) | [Brian Sherwin](http://briansherwin.com/) | [TEKsystems](https://www.teksystems.com) |
 |  February | 23rd | Containers: What they are, and how they can make your (dev) life better | Kevin Booth | [Fusion Alliance](https://fusionalliance.com/) |
-|   March   | 23rd |       Stop Writing Secure Code! (Start Building Secure Frameworks)       | Seth Petry-Johnson | Available |
+|   March   | 23rd |       TBD       |           | Available |
 |   April   | 27th |       TBD       | [Lee Brandt](http://leebrandt.me/) | Available |
 |    May    | 25th |       TBD       |           | Available |
 |    June   | 22nd |       TBD       |           | Available |
