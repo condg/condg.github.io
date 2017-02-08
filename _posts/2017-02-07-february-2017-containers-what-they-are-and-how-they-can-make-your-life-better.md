@@ -32,5 +32,6 @@ Please join us for a geek dinner after the meeting at The Pub at 1554 Polaris Pa
 
 ## Meeting Sponsor
 
-Opportunities to sponsor a CONDG meeting are available! For more information please email contact@condg.org
+Our February sponsor is [Fusion Alliance](https://fusionalliance.com/)! Thank you!
 
+[![Fusion Alliance](/images/sponsors/fusionalliance_large.png)](https://fusionalliance.com/)
