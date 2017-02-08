@@ -96,6 +96,7 @@ highlighter: rouge
 permalink: /:year/:month/:day/:title/
 paginate: 5
 paginate_path: "/page:num/"
+future: false
 
 kramdown:
   input: GFM
