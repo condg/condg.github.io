@@ -17,9 +17,6 @@ For more information visit their website [ttp://www.arenatechnight.com/](http://
 ## Conferences
 ---------------------------------------
 
-### QA or the Highway (Feb 7th, 2017)
-[QA or the Highway](https://qaorthehighway.com/) is a regional, professional conference featuring real world experience and thought leadership in the QA and testing industry.  The QA or the Highway conference will be held on Tuesday, February 7, 2017 at the Ohio State University Student Union in Columbus, Ohio.
-
 ### Stir Trek (May 5th, 2017)
 [Stir Trek](http://stirtrek.com/) is a one-day conference focused on teaching software developers, and others in the industry, the latest and greatest in technologies, techniques, and tools. The full day of content is always concluded with a private screening of a blockbuster film on its opening day.
 
