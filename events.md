@@ -11,10 +11,20 @@ layout: page
 ### Arena Tech Night
 Arena Tech Night is all about Technology, Community, Fun, Food and Drinks.  It is for people who are passionate about technology, and enjoy networking with others who share that same passion.  As a community-driven event, Arena Tech Night attendees help drive the process: attendees suggest topics they would like to learn about, they help gather presenters for those topics, and then they vote on which topics they would most like to see next.
 
-For more information visit their website [ttp://www.arenatechnight.com/](http://www.arenatechnight.com/)
+For more information visit [www.arenatechnight.com](http://www.arenatechnight.com/)
 
+### IT Game Day: Winter 2017 (Sunday, March 5th, 2017)
+
+It's been awile. So let's get together for some gaming!
+
+For those who haven't attended, this is a day for tech pros and their family and friends to hang out and play tabletop games. You're encouraged to bring your favorite games and teach them to the rest of us. Have a game you want to playtest? Bring that and we'll give it a shot.
+
+As always, we will have plenty of food and drinks on hand.
+
+Register for free today at [www.Eventbrite.com](https://www.eventbrite.com/e/it-game-day-winter-2017-tickets-32003812264)
 
 ## Conferences
+
 ---------------------------------------
 
 ### Stir Trek (May 5th, 2017)
