@@ -36,5 +36,4 @@ Please join us for a geek dinner after the meeting at The Pub at 1554 Polaris Pa
 
 Our March sponsor is [Leading Edje](http://leadingedje.com/)! Thank you!
 
-[![Leading Edje](/images/sponsors/leadingedje_large.png)](http://leadingedje.com/)
-
+[![Leading Edje](/images/sponsors/Leading_Edge_Logo_2_Color.jpg)](http://leadingedje.com/)
