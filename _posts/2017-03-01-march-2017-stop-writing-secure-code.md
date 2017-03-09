@@ -34,4 +34,7 @@ Please join us for a geek dinner after the meeting at The Pub at 1554 Polaris Pa
 
 ## Meeting Sponsor
 
-Opportunities to sponsor a CONDG meeting are available! For more information please email contact@condg.org
+Our March sponsor is [Leading Edje](http://leadingedje.com/)! Thank you!
+
+[![Leading Edje](/images/sponsors/leadingedje_large.png)](http://leadingedje.com/)
+
