@@ -12,7 +12,7 @@ Below is the tentative monthly meeting schedule for 2017.
 |  January  | 26th | [Visual Studio...What's Coming in 2017](/2017/01/17/january-2017-visual-studio-whats-coming-in-2017/) | [Brian Sherwin](http://briansherwin.com/) | [TEKsystems](https://www.teksystems.com) |
 |  February | 23rd | [Containers: What they are, and how they can make your (dev) life better](/2017/02/07/february-2017-containers-what-they-are-and-how-they-can-make-your-life-better/) | Kevin Booth | [Fusion Alliance](https://fusionalliance.com/) |
 |   March   | 23rd | [Stop Writing Secure Code! (Start Building Secure Frameworks)](/2017/03/01/march-2017-stop-writing-secure-code/)       | [Seth Petry-Johnson](http://www.petry-johnson.com) | [Leading Edje](http://leadingedje.com/) |
-|   April   | 27th | JavaScript LevelUp (Tentative) | [Lee Brandt](http://leebrandt.me/) | Available |
+|   April   | 27th | [JavaScript LevelUp](/2017/04/07/april-2017-javascript-levelup/) | [Lee Brandt](http://leebrandt.me/) | [HMB](http://www.hmbnet.com/) |
 |    May    | 25th |       TBD       |           | Available |
 |    June   | 22nd |       TBD       |           | Available |
 |    July   | 27th | Lightning Talks |    TBD    | Available |
