@@ -13,7 +13,7 @@ Below is the tentative monthly meeting schedule for 2017.
 |  February | 23rd | [Containers: What they are, and how they can make your (dev) life better](/2017/02/07/february-2017-containers-what-they-are-and-how-they-can-make-your-life-better/) | Kevin Booth | [Fusion Alliance](https://fusionalliance.com/) |
 |   March   | 23rd | [Stop Writing Secure Code! (Start Building Secure Frameworks)](/2017/03/01/march-2017-stop-writing-secure-code/)       | [Seth Petry-Johnson](http://www.petry-johnson.com) | [Leading Edje](http://leadingedje.com/) |
 |   April   | 27th | [JavaScript LevelUp](/2017/04/07/april-2017-javascript-levelup/) | [Lee Brandt](http://leebrandt.me/) | [HMB](http://www.hmbnet.com/) |
-|    May    | 25th |       TBD       |           | Available |
+|    May    | 25th | [Microservices on Azure Service Fabric: What, How, and Why](/2017/05/12/may-2017-microservices-on-azure-service-fabric/)| Jon Fairchild | [Cardinal Solutions](http://www.cardinalsolutions.com) |
 |    June   | 22nd |       TBD       |           | Available |
 |    July   | 27th | Lightning Talks |    TBD    | Available |
 |   August  | 24th |       TBD       |           | Available |
