@@ -13,22 +13,9 @@ Arena Tech Night is all about Technology, Community, Fun, Food and Drinks.  It i
 
 For more information visit [www.arenatechnight.com](http://www.arenatechnight.com/)
 
-### IT Game Day: Winter 2017 (Sunday, March 5th, 2017)
-
-It's been awile. So let's get together for some gaming!
-
-For those who haven't attended, this is a day for tech pros and their family and friends to hang out and play tabletop games. You're encouraged to bring your favorite games and teach them to the rest of us. Have a game you want to playtest? Bring that and we'll give it a shot.
-
-As always, we will have plenty of food and drinks on hand.
-
-Register for free today at [www.Eventbrite.com](https://www.eventbrite.com/e/it-game-day-winter-2017-tickets-32003812264)
-
 ## Conferences
 
 ---------------------------------------
-
-### Stir Trek (May 5th, 2017)
-[Stir Trek](http://stirtrek.com/) is a one-day conference focused on teaching software developers, and others in the industry, the latest and greatest in technologies, techniques, and tools. The full day of content is always concluded with a private screening of a blockbuster film on its opening day.
 
 ### Path to Agility (May 25-26th, 2017)
 [The Path to Agility](https://www.thepathtoagility.com/) conference was developed to further COHAA’s mission to promote the use of Agile practices and principles. COHAA has engaged a number of national and regional Agile thought leaders to provide session content focused on a mix of business, technical, and/or management topics. Whether you are well along the path or just starting out, this conference will help guide you in the right direction.

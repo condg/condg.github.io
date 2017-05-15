@@ -34,4 +34,4 @@ Please join us for a geek dinner after the meeting at The Pub at 1554 Polaris Pa
 
 Our May sponsor is [Cardinal Solutions](http://cardinalsolutions.com/)! Thank you!
 
-[![Cardinal Solutions](../images/sponsors/cardinal_solutions_large.png)](http://cardinalsolutions.com/)
+[![Cardinal Solutions](/images/sponsors/cardinal_solutions_large.png)](http://cardinalsolutions.com/)
