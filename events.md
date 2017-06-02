@@ -17,9 +17,6 @@ For more information visit [www.arenatechnight.com](http://www.arenatechnight.co
 
 ---------------------------------------
 
-### Path to Agility (May 25-26th, 2017)
-[The Path to Agility](https://www.thepathtoagility.com/) conference was developed to further COHAA’s mission to promote the use of Agile practices and principles. COHAA has engaged a number of national and regional Agile thought leaders to provide session content focused on a mix of business, technical, and/or management topics. Whether you are well along the path or just starting out, this conference will help guide you in the right direction.
-
 ### Detroit.Code() (July 10-12th, 2017)
 [Detroit.Code()](https://detroitcode.amegala.com/) is a professional conference for anyone involved with the creation of software. It's an Amegala event, so you know you're going to get the best mix of local, regional and national experts delivering TONS of sessions on the hottest technology, all for a reasonable price. This is the conference you've been waiting for. You're going to love this!
 
