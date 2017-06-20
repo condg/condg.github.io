@@ -23,3 +23,9 @@ For seasoned speakers, Lightning Talks are a nice way to test out new material a
 If you are interested in doing a Lightning Talk, please send an email to contact@condg.org with your topic by Monday June 19th.
 
 We have room for six speakers and it is first come, first serve. Hurry and submit your talks now!
+
+## Meeting Sponsor
+
+Our May sponsor is [Manifest Solutions](http://manifestcorp.com/)! Thank you!
+
+[![Manifest Solutions](/images/sponsors/manifest.png)](http://manifestcorp.com/)
