@@ -1,6 +1,6 @@
 ---
 title: "July 2017 - Flying High with Xamarin!"
-date: 2017-05-12
+date: 2017-06-27
 layout: post
 ---
 
