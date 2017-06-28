@@ -6,6 +6,15 @@ layout: post
 
 This June 22nd we will be hosting an all Lightning Talk meeting and you can be one of the presenters!
 
+## Scheduled Talks
+
+ 1. "Xamarin Forms" with Travis Bay
+ 1. "ASP.Net / ASP.Net Core Comparison" with Machael Bowman
+ 1. "Technical Talks Tips and Tricks" with Brian Sherwin
+ 1. "Intro to Data Modeling" with Aaron Petry
+ 1. "Angular + Redux" with Adam Pasternack
+ 1. "Logging using Elmah" with James Sanders
+ 
 ## What are Lightning Talks?
 
 A Lightning Talk is a short 10 to 15 minute presentation on a single topic or idea. All you need to do is pick a topic you would like to present and put together a few slides and one or two short demos. Please no live coding!
