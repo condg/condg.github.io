@@ -45,6 +45,6 @@ Parkway, Columbus, Ohio 43240](https://goo.gl/maps/TDyKHAxNxZ82).
 
 ## Meeting Sponsor
 
-Our July sponsor is [Telerik](http://www.telerik.com/)! Thank you!
+Our July sponsor is [Progress](https://www.progress.com/)! Thank you!
 
-[![Telerik](/images/sponsors/telerik_large.png)](http://www.telerik.com//)
+[![Progress](/images/sponsors/progress_large.png)](https://www.progress.com/)

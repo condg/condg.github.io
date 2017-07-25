@@ -9,7 +9,7 @@ layout: page
 ### Prize Sponsors
 
 | [![Nevron](/images/sponsors/nevron_small.png "Nevron")](http://nevron.com/) | [![CouchBase](/images/sponsors/couchbase_small.png "CouchBase")](https://www.couchbase.com/) |
-| [![Telerik](/images/sponsors/telerik_small.png "Telerik")](http://telerik.com/) | [![Microsoft](/images/sponsors/microsoft_small.png "Microsoft")](https://www.microsoft.com/) |
+| [![Progress](/images/sponsors/progress_small.png "Progress")](https://www.progress.com/) | [![Microsoft](/images/sponsors/microsoft_small.png "Microsoft")](https://www.microsoft.com/) |
 |[![JetBrains](/images/sponsors/jetbrains_small.png "JetBrains")](https://www.jetbrains.com/) | &nbsp; |
 
 ## Sponsorship opportunities

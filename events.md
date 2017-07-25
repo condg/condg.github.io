@@ -17,9 +17,6 @@ For more information visit [www.arenatechnight.com](http://www.arenatechnight.co
 
 ---------------------------------------
 
-### Detroit.Code() (July 10-12th, 2017)
-[Detroit.Code()](https://detroitcode.amegala.com/) is a professional conference for anyone involved with the creation of software. It's an Amegala event, so you know you're going to get the best mix of local, regional and national experts delivering TONS of sessions on the hottest technology, all for a reasonable price. This is the conference you've been waiting for. You're going to love this!
-
 ### M3 Conference (Aug 2017)
 [M3 Conference](http://m3conf.com/) was founded in 2010 as an intentional movement towards delivering innovative and thought-provoking sessions with an emphasis on mobile technology and the ultimate impact it had on user experience. But has quickly become enveloped in moving the dialogue towards our over-arching goals as technologists, and becoming more aware of how privacy and communications are affected in the decisions we make when envisioning the best designs and functionality. We at M3 are excited about the room for a perspective that utilizes the full potential of our understanding to competitively drive business value while also seeking to improve the world around us. The rise of “connectivity” within the “Internet of Things” coupled with a “smart” perspective towards technology and its solutions can spur our “best” technological efforts.
 
