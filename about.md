@@ -45,7 +45,7 @@ Meetings are held at the Microsoft Polaris Office
 </div>
 [Microsoft Office, 4th Floor<br/>8800 Lyra Drive<br/>Columbus, Ohio 43240](https://goo.gl/maps/2HFvJCJG9i82)
 
-## <i class="fa fa-envelope" aria-hidden="true"></i> How can I be notified of future meetings? <a name="newsletter" />
+## <i class="fa fa-info-circle" aria-hidden="true"></i> How can I be notified of future meetings? <a name="newsletter" />
 
 We encourage you to sign up for our monthly newsletter! It's the best way to keep up to date!
 
@@ -63,6 +63,6 @@ We encourage you to sign up for our monthly newsletter! It's the best way to kee
 </div>
 <!--End mc_embed_signup-->
 
-## How can I contact you? <a name="contact" />
+## <i class="fa fa-envelope" aria-hidden="true"></i> How can I contact you? <a name="contact" />
 
 You may email us at [contact@condg.org](mailto:contact@condg.org)
