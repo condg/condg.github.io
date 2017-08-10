@@ -17,15 +17,14 @@ For more information visit [www.arenatechnight.com](http://www.arenatechnight.co
 
 ---------------------------------------
 
-### M3 Conference (Aug 2017)
-[M3 Conference](http://m3conf.com/) was founded in 2010 as an intentional movement towards delivering innovative and thought-provoking sessions with an emphasis on mobile technology and the ultimate impact it had on user experience. But has quickly become enveloped in moving the dialogue towards our over-arching goals as technologists, and becoming more aware of how privacy and communications are affected in the decisions we make when envisioning the best designs and functionality. We at M3 are excited about the room for a perspective that utilizes the full potential of our understanding to competitively drive business value while also seeking to improve the world around us. The rise of “connectivity” within the “Internet of Things” coupled with a “smart” perspective towards technology and its solutions can spur our “best” technological efforts.
-
 ### Cloud Develop (Aug / Sept 2017)
 [CloudDevelop](http://clouddevelop.org/) aims to bring together people exploring every aspect of cloud computing from App Dev to DevOps.
 
 ### DogFood Con (Oct 5-6th, 2017)
 [Dog Food Conference](http://dogfoodcon.com/) is a two day event focused on Microsoft tools and technologies including ALM, Azure, SQL/BI, CRM, DevOps, Infrastructure, Mobile, .NET, Office 365, SharePoint, Windows, and more.
 
+### CodeMash (Jan 09-12th, 2018)
+[CodeMash](http://www.codemash.org/) is a unique event that will educate developers on current practices, methodologies, and technology trends in a variety of platforms and development languages such as Java, .NET, Ruby, Python and PHP.
 
 ## User Groups
 ---------------------------------------
