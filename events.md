@@ -5,7 +5,7 @@ permalink: "/events/index.html"
 layout: page
 ---
 
-## Local Events
+## Local Events <i class="fa fa-calendar" aria-hidden="true"></i>
 ---------------------------------------
 
 ### Arena Tech Night
@@ -13,8 +13,7 @@ Arena Tech Night is all about Technology, Community, Fun, Food and Drinks.  It i
 
 For more information visit [www.arenatechnight.com](http://www.arenatechnight.com/)
 
-## Conferences
-
+## Conferences <i class="fa fa-id-badge" aria-hidden="true"></i>
 ---------------------------------------
 
 ### Cloud Develop (Aug / Sept 2017)
@@ -26,7 +25,7 @@ For more information visit [www.arenatechnight.com](http://www.arenatechnight.co
 ### CodeMash (Jan 09-12th, 2018)
 [CodeMash](http://www.codemash.org/) is a unique event that will educate developers on current practices, methodologies, and technology trends in a variety of platforms and development languages such as Java, .NET, Ruby, Python and PHP.
 
-## User Groups
+## User Groups <i class="fa fa-users" aria-hidden="true"></i>
 ---------------------------------------
 
 As part of our ongoing user group outreach we would like to let you know about some other user groups you might be interested in attending.
