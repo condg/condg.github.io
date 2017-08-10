@@ -5,11 +5,11 @@ permalink: "/about/index.html"
 layout: page
 ---
 
-## Who can attend <a name="who" />
+## <i class="fa fa-user" aria-hidden="true"></i> Who can attend <a name="who" />
 
 The Central Ohio .Net Developers Group meetings are free and open to the public! There is no need to register or sign up.
 
-## When we meet <a name="when" />
+## <i class="fa fa-calendar" aria-hidden="true"></i> When we meet <a name="when" />
 
 The Central Ohio .Net Developers Group meets on the 4th Thursday of every month.
 
@@ -18,7 +18,7 @@ Please check our [schedule](/schedule) for upcoming meeting dates and topics.
 *Note: Due to holiday schedules we do not host regular meetings in November and December.
 Instead we host a special holiday party in December.*
 
-## Where we meet <a name="where" />
+## <i class="fa fa-map-marker" aria-hidden="true"></i> Where we meet <a name="where" />
 
 Meetings are held at the Microsoft Polaris Office
 
@@ -45,7 +45,7 @@ Meetings are held at the Microsoft Polaris Office
 </div>
 [Microsoft Office, 4th Floor<br/>8800 Lyra Drive<br/>Columbus, Ohio 43240](https://goo.gl/maps/2HFvJCJG9i82)
 
-## How can I be notified of future meetings? <a name="newsletter" />
+## <i class="fa fa-envelope" aria-hidden="true"></i> How can I be notified of future meetings? <a name="newsletter" />
 
 We encourage you to sign up for our monthly newsletter! It's the best way to keep up to date!
 
