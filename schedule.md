@@ -17,7 +17,7 @@ Below is the tentative monthly meeting schedule for 2017.
 |    June   | 22nd | [Lightning Talks](/2017/06/02/june-2017-lightning-talks/) | Multiple | [Manifest Solutions](http://manifestcorp.com/) |
 |    July   | 27th | [Flying High with Xamarin!](/2017/06/27/july-2017-flying-high-with-xamarin/) | [Sam Basu](https://samidipbasu.com/) | [Telerik](http://www.telerik.com/) |
 |   August  | 24th | [Real-time Apps with SignalR Core](/2017/08/02/august-2017-signalrcore/) | Brandon Rockwell | [Huntington](https://www.huntington.com/) |
-| September | 28th |       TBD       |           | Available |
+| September | 28th | [5 Popular Choices for NoSQL on a Microsoft Platform](/2018/09/15/september-2017-couchbase) | [Matthew Groves](http://crosscuttingconcerns.com) | [Couchbase](http://developer.couchbase.com) |
 |  October  | 26th | Design for non-designers | [Jay Harris](http://www.cptloadtest.com/) | Available |
 |  December |  TBD |  Holiday Party  |           | Available |
 
