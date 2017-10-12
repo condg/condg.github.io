@@ -1,6 +1,6 @@
 ---
 title: "October 2017 - Design for Non-Designers from a Non-Designer"
-date: 2017-10-13
+date: 2017-10-11
 layout: post
 ---
 
