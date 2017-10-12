@@ -1,6 +1,6 @@
 ---
-title: "September 2017 - 5 Popular Choices for NoSQL on a Microsoft Platform"
-date: 2017-09-05
+title: "October 2017 - Design for Non-Designers from a Non-Designer"
+date: 2017-10-13
 layout: post
 ---
 
