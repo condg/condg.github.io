@@ -46,4 +46,4 @@ You simply need to be here!
 
 **Here are the Toys needed for the OSU Program .. only approved toys can be accepted:**
 
-[![OSU Toy Adaptation Program](https://cdn.evbuc.com/eventlogos/2946620/20171115102123.png)]
+![OSU Toy Adaptation Program](https://cdn.evbuc.com/eventlogos/2946620/20171115102123.png)
