@@ -16,14 +16,8 @@ For more information visit [www.arenatechnight.com](http://www.arenatechnight.co
 ## <i class="fa fa-id-badge" aria-hidden="true"></i> Conferences
 ---------------------------------------
 
-### Cloud Develop (Aug / Sept 2017)
-[CloudDevelop](http://clouddevelop.org/) aims to bring together people exploring every aspect of cloud computing from App Dev to DevOps.
-
-### DogFood Con (Oct 5-6th, 2017)
-[Dog Food Conference](http://dogfoodcon.com/) is a two day event focused on Microsoft tools and technologies including ALM, Azure, SQL/BI, CRM, DevOps, Infrastructure, Mobile, .NET, Office 365, SharePoint, Windows, and more.
-
-### CodeMash (Jan 09-12th, 2018)
-[CodeMash](http://www.codemash.org/) is a unique event that will educate developers on current practices, methodologies, and technology trends in a variety of platforms and development languages such as Java, .NET, Ruby, Python and PHP.
+### Stir Trek (May 4th, 2018)
+[Stir Trek](https://www.stirtrek.com/) is a one-day conference focused on teaching software developers, and others in the industry, the latest and greatest in technologies, techniques, and tools. The full day of content is always concluded with a screening of a blockbuster film on its opening day. And you get all of that for only 99 bucks. Pretty sweet, huh? 
 
 ## <i class="fa fa-users" aria-hidden="true"></i> User Groups 
 ---------------------------------------
