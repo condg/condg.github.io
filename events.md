@@ -19,6 +19,9 @@ For more information visit [www.arenatechnight.com](http://www.arenatechnight.co
 ### Stir Trek (May 4th, 2018)
 [Stir Trek](https://www.stirtrek.com/) is a one-day conference focused on teaching software developers, and others in the industry, the latest and greatest in technologies, techniques, and tools. The full day of content is always concluded with a screening of a blockbuster film on its opening day. And you get all of that for only 99 bucks. Pretty sweet, huh? 
 
+### Indy.Code() (April 16th-18th, 2018)
+[Indy.Code()](https://indycode.amegala.com/) is an upcoming three-day software development conference in downtown Indianapolis. With over 100 breakout sessions and hands-on workshops covering all aspects of software development, Indy.Code() is a must attend event for any serious software professional.
+
 ## <i class="fa fa-users" aria-hidden="true"></i> User Groups 
 ---------------------------------------
 
