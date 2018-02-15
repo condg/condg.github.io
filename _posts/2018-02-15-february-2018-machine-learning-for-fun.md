@@ -1,6 +1,6 @@
 ---
 title: "February 2018 - Machine Learning for Fun: Finding Bigfoot with the Nexosis API"
-date: 2018-01-20
+date: 2018-02-15
 layout: post
 ---
 
