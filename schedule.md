@@ -10,7 +10,7 @@ Below is the tentative monthly meeting schedule for 2018.
 |   Month   |  Day |      Topic      | Presenter | Sponsor(s) |
 |:---------:|:----:|:---------------:|:---------:|:----------:|
 | January   | 25th | [What's new in the OWASP Top 10?](/2018/01/20/january-2018/) | [Bill Sempf](https://sempf.net/) | [ICC](https://www.icctechnology.com/)  |
-| February  | 22nd |  Available      |           | [ICC](https://www.icctechnology.com/)  |
+| February  | 22nd |  [Machine Learning for Fun](/2018/02/15/february-2018-machine-learning-for-fun/)      | [Guy Royse](http://guyroyse.com/)| [ICC](https://www.icctechnology.com/)  |
 | March     | 22nd |  Available      |           | Available  |
 | April     | 26th |  Available      |           | Available  |
 | May       | 24th |  Available      |           | Available  |
