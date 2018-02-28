@@ -1,6 +1,6 @@
 ---
 title: "March 2018 - Chrome Developer Tools: Raiding the Armory"
-date: 2018-03-01
+date: 2018-02-28
 layout: post
 ---
 
