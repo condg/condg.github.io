@@ -7,7 +7,11 @@ layout: page
 
 ## <i class="fa fa-user" aria-hidden="true"></i> Who can attend <a name="who" />
 
-The Central Ohio .Net Developers Group meetings are free and open to the public! There is no need to register or sign up.
+The Central Ohio .Net Developers Group meetings are free and open to the public! 
+
+All developers; professional, student, and hobbiest are welcome and encouraged to attend.
+
+There is no need to register or sign up.
 
 ## <i class="fa fa-calendar" aria-hidden="true"></i> When we meet <a name="when" />
 
