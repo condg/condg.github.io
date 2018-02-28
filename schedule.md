@@ -11,7 +11,7 @@ Below is the tentative monthly meeting schedule for 2018.
 |:---------:|:----:|:---------------:|:---------:|:----------:|
 | January   | 25th | [What's new in the OWASP Top 10?](/2018/01/20/january-2018/) | [Bill Sempf](https://sempf.net/) | [ICC](https://www.icctechnology.com/)  |
 | February  | 22nd |  [Machine Learning for Fun](/2018/02/15/february-2018-machine-learning-for-fun/)      | [Guy Royse](http://guyroyse.com/)| [ICC](https://www.icctechnology.com/)  |
-| March     | 22nd |  Available      |           | Available  |
+| March     | 22nd |  [Chrome Developer Tools: Raiding the Armory](/2018/03/01/march-2018-chrome-developer-tools)      | Greg Malcolm | [ICC](https://www.icctechnology.com/)  |
 | April     | 26th |  Available      |           | Available  |
 | May       | 24th |  Available      |           | Available  |
 | June      | 28th |  Available      |           | Available  |
