@@ -20,7 +20,6 @@ Instead we host a special holiday party in December.*
 
 ## <i class="fa fa-map-marker" aria-hidden="true"></i> Where we meet <a name="where" />
 
-Meetings are held at the Microsoft Polaris Office
 
 <style type="text/css">
 	iframe { 
