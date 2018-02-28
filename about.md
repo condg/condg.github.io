@@ -41,9 +41,9 @@ Meetings are held at the Microsoft Polaris Office
 </style>
 
 <div class="aspect-ratio">
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3049.9057920077257!2d-82.97518998461233!3d40.14438217939776!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8838f4679f87d0cf%3A0x458ec3e21396145a!2s8800+Lyra+Dr%2C+Columbus%2C+OH+43240!5e0!3m2!1sen!2sus!4v1450123055872" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3051.8265315999033!2d-82.9488346843922!3d40.101580382669184!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8838f529c8236b5d%3A0x878450bd545bf31b!2s2500+Corporate+Exchange+Dr%2C+Columbus%2C+OH+43231!5e0!3m2!1sen!2sus!4v1519843317749" frameborder="0" style="border:0" allowfullscreen></iframe>
 </div>
-[Microsoft Office, 4th Floor<br/>8800 Lyra Drive<br/>Columbus, Ohio 43240](https://goo.gl/maps/2HFvJCJG9i82)
+[Information Control Company<br/>2500 Corporate Exchange Drive<br/>Columbus, Ohio 43231](https://goo.gl/maps/aUecyQ2rWuQ2)
 
 ## <i class="fa fa-info-circle" aria-hidden="true"></i> How can I be notified of future meetings? <a name="newsletter" />
 
