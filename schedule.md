@@ -17,7 +17,7 @@ Below is the tentative monthly meeting schedule for 2018.
 | June      | 28th | TBD JavaScript Talk | [James Bender](https://twitter.com/jamesbender) | [ICC](https://www.icctechnology.com/) |
 | July      | 26th | Lightning Talks |           | [ICC](https://www.icctechnology.com/) |
 | August    | 23rd | Available      |           | [ICC](https://www.icctechnology.com/) |
-| September | 27th | Telerik Tour | [Chris "Woody" Woodruff](https://twitter.com/cwoodruff) | [ICC](https://www.icctechnology.com/) |
+| September | 27th | JetBrains Tour | [Chris "Woody" Woodruff](https://twitter.com/cwoodruff) | [ICC](https://www.icctechnology.com/) |
 | October   | 25th | The Makings of an Effective Developer Team | [Michael Bowman](https://twitter.com/McBowman) | [ICC](https://www.icctechnology.com/) |
 | December  |  TBD | Holiday Party  |           | Available  |
 
