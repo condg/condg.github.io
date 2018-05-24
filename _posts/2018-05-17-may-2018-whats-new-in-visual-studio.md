@@ -34,7 +34,9 @@ Columbus, OH 43231
 
 ## Networking / Geek Dinner
 
-We are looking for suggestions of where to go
+O'Charley’s Restaurant & Bar<br/>
+<a href="https://goo.gl/maps/dV27myYuraR2">6285 Cleveland Ave</a><br/>
+<a href="https://goo.gl/maps/dV27myYuraR2">Columbus, OH 43231</a>
 
 ## Meeting Sponsor
 
