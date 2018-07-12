@@ -15,7 +15,7 @@ For more information visit [www.arenatechnight.com](http://www.arenatechnight.co
 
 ## <i class="fa fa-id-badge" aria-hidden="true"></i> Conferences
 ---------------------------------------
-
+### Cincy.Develop() (July 27th, 2018)
 [Cincy.Develop()](https://dayofagilecincydevelop2018.eventbrite.com/) - Agile Conferences, Inc. (creator of the [Day of Agile](http://www.dayofagile.org/)) is partnering with the Cincinnati .NET User Group (www.cinnug.org) to bring a first class developer conference back to the Cincinnati Tristate area.
 
 The conference will feature talks on web, mobile, and cloud, given by industry leaders from all across the US.
