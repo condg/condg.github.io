@@ -27,7 +27,7 @@ We have room for six speakers and it is first come, first serve. Hurry and submi
 ## Scheduled Talks
 
 1. Ted Schaffer - A talk on LINQ
-1. Available
+1. Steve Nosan - Development at breakneck speed
 1. Available
 1. Available
 1. Available
