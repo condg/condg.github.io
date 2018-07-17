@@ -30,7 +30,7 @@ We have room for six speakers and it is first come, first serve. Hurry and submi
 1. Steve Nosan - Development at breakneck speed
 1. Mario Vargas - A better way to simplify your MVC/API controllers using the Mediator Pattern
 1. Tony McKinney - Browser Automation for Developers: An F# Scripting Approach
-1. Available
+1. Jeffrey Miller - Bookmarklets for Fun and Profit!
 1. Available
 
 ## When
