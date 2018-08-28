@@ -29,10 +29,10 @@ donated by your organization. You are also welcome to provide a flyer to be hand
 **Meeting Sponsorship** - In order to provide a consistant location and meeting time we are willing to work
 with potential meeting sponsors that can commit to providing the following reqirements for a minimum of 6 months:
 
-1) Classroom style seating for 60+ people
-2) Full audio / visual capabilites for presentations
-3) Provided food and drinks for guests
-4) Free or validated parking (bonus)
+ * Classroom style seating for 60+ people
+ * Full audio / visual capabilites for presentations
+ * Provided food and drinks for guests
+ * Free or validated parking (bonus)
 
 **Job Postings** - Our current policy is to not allow job postings or announcements on our site or at our
 meetings.
