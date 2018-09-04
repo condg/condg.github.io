@@ -11,7 +11,11 @@ The Central Ohio .Net Developers Group meetings are free and open to the public!
 
 All developers; professional, student, and hobbiest are welcome and encouraged to attend.
 
-There is no need to register or sign up.
+## <i class="fa fa-meetup" aria-hidden="true"></i> Join our Meetup Group <a name="meetup" />
+
+Though not required we encourage all attendees to register on the official meetup group to help us track attendance and plan our food orders.
+
+[![Join our Meetup Group](/images/joinmeetup.png)](https://www.meetup.com/Central-Ohio-NET-Developers-Group-CONDG/)
 
 ## <i class="fa fa-calendar" aria-hidden="true"></i> When we meet <a name="when" />
 
