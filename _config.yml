@@ -41,6 +41,7 @@ author:
   facebook: condg
   github: condg
   twitter: condg
+  meetup: Central-Ohio-NET-Developers-Group-CONDG
 
 # Select which links to show in the footer
 footer-links-active:
@@ -54,6 +55,7 @@ footer-links-active:
   instagram: false
   youtube: false
   telephone: false
+  meetup: true
 
 # Select which share links to show in posts
 share-links-active:
