@@ -103,7 +103,7 @@
             </a>
           </li>
         {% endif %}
-		  {% if site.footer-links-active.rss %}
+        {% if site.footer-links-active.rss %}
 		  <li>
 			<a href="{{ '/feed.xml' | prepend: site.baseurl }}" title="RSS">
 			  <span class="fa-stack fa-lg">
@@ -113,6 +113,16 @@
 			</a>
 		  </li>
           {% endif %}
+      {% if site.author.meetup and site.footer-links-active.meetup %}
+          <li>
+            <a href="https://www.meetup.com/{{ site.author.meetup }}" title="MeetUp">
+              <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-meetup fa-stack-1x fa-inverse"></i>
+              </span>
+            </a>
+          </li>
+          {% endif %}		
           <li>
             <a href="/about/#newsletter" title="Newsletter Signup">
               <span class="fa-stack fa-lg">
