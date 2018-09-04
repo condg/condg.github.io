@@ -17,7 +17,7 @@ Below is the tentative monthly meeting schedule for 2018.
 | June      | 28th | [Yes, You Can Write Angular and React Applications in Visual Studio!](/2018/06/01/june-2018-angular-and-react-applications-in-visual-studio/) | [James Bender](https://twitter.com/jamesbender) | [ICC](https://www.icctechnology.com/) |
 | July      | 26th | [Lightning Talks](/2018/07/01/july-2018-lightning-talks/) |           | [ICC](https://www.icctechnology.com/) |
 | August    | 23rd | Available      |           | [ICC](https://www.icctechnology.com/) |
-| September | 27th | JetBrains Tour | [Chris "Woody" Woodruff](https://twitter.com/cwoodruff) | [ICC](https://www.icctechnology.com/) |
+| September | 27th | [JetBrains Rider](/2018/09/01/september-2018-jetbrains-rider/) | [Chris "Woody" Woodruff](https://twitter.com/cwoodruff) | [ICC](https://www.icctechnology.com/) |
 | October   | 25th | The Makings of an Effective Developer Team | [Michael Bowman](https://twitter.com/McBowman) | [ICC](https://www.icctechnology.com/) |
 | December  |  TBD | Holiday Party  |           | Available  |
 
