@@ -16,9 +16,9 @@ Below is the tentative monthly meeting schedule for 2018.
 | May       | 24th | [What's new in Visual Studio and C# 7](/2018/05/17/may-2018-whats-new-in-visual-studio/) | [Doug Mair](https://twitter.com/doug_mair) | [ICC](https://www.icctechnology.com/) |
 | June      | 28th | [Yes, You Can Write Angular and React Applications in Visual Studio!](/2018/06/01/june-2018-angular-and-react-applications-in-visual-studio/) | [James Bender](https://twitter.com/jamesbender) | [ICC](https://www.icctechnology.com/) |
 | July      | 26th | [Lightning Talks](/2018/07/01/july-2018-lightning-talks/) |           | [ICC](https://www.icctechnology.com/) |
-| August    | 23rd | Available      |           | [ICC](https://www.icctechnology.com/) |
+| August    | 23rd | [Understanding SQL Server Execution Plans](/2018/08/11/august-2018-understanding-sql-server-execution-plans/)      | [Drew Furgiuele](https://port1433.com/) | [ICC](https://www.icctechnology.com/) |
 | September | 27th | [JetBrains Rider](/2018/09/01/september-2018-jetbrains-rider/) | [Chris "Woody" Woodruff](https://twitter.com/cwoodruff) | [ICC](https://www.icctechnology.com/) |
-| October   | 25th | The Makings of an Effective Developer Team | [Michael Bowman](https://twitter.com/McBowman) | [ICC](https://www.icctechnology.com/) |
+| October   | 25th | TBD | TBD | [ICC](https://www.icctechnology.com/) |
 | December  |  TBD | Holiday Party  |           | Available  |
 
 **[Current](/schedule/)** : [2017](/schedule/2017/)
