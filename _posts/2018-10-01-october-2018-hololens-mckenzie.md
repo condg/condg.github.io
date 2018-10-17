@@ -1,6 +1,6 @@
 ---
 title: "October 2018 - Unraveling Realities: Building HoloLens Apps With Unity & C#"
-date: 2018-10-25
+date: 2018-10-01
 layout: post
 ---
 
