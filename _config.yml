@@ -2,7 +2,7 @@
 
 # url is the full website URL
 # baseurl is the website's URL without the hostname
-url: "http://condg.org"
+url: "https://condg.org"
 baseurl: ""
 
 # Name of website
