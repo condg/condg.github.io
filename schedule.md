@@ -18,7 +18,7 @@ Below is the tentative monthly meeting schedule for 2018.
 | July      | 26th | [Lightning Talks](/2018/07/01/july-2018-lightning-talks/) |           | [ICC](https://www.icctechnology.com/) |
 | August    | 23rd | [Understanding SQL Server Execution Plans](/2018/08/11/august-2018-understanding-sql-server-execution-plans/)      | [Drew Furgiuele](https://port1433.com/) | [ICC](https://www.icctechnology.com/) |
 | September | 27th | [JetBrains Rider](/2018/09/01/september-2018-jetbrains-rider/) | [Chris "Woody" Woodruff](https://twitter.com/cwoodruff) | [ICC](https://www.icctechnology.com/) |
-| October   | 25th | TBD | TBD | [ICC](https://www.icctechnology.com/) |
+| October   | 25th | [Building HoloLens Apps With Unity & C#](/2018/10/01/october-2018-hololens-mckenzie/) | [Jeff McKenzie](https://twitter.com/jeffreymckenzie) | [ICC](https://www.icctechnology.com/) |
 | December  |  TBD | Holiday Party  |           | Available  |
 
 **[Current](/schedule/)** : [2017](/schedule/2017/)
