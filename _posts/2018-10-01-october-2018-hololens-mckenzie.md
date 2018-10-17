@@ -42,4 +42,4 @@ Columbus, OH 43231
 
 ## Registration
 
-[![Join our Meetup Group](/images/joinmeetup.png)](https://www.meetup.com/Central-Ohio-NET-Developers-Group-CONDG/events/254249783/)
+[![Join our Meetup Group](/images/joinmeetup.png)](https://www.meetup.com/Central-Ohio-NET-Developers-Group-CONDG/events/254332699/)
